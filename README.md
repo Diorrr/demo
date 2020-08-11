@@ -1,2 +1,2 @@
 # demo
-Project to learn anything about java and Spring
+Project to learn everything about java and Spring
